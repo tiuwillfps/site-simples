@@ -1,4 +1,4 @@
-# Olá, eu sou o Thiago Willian (TH7)! 👋
+# Olá, eu sou o Thiago Willian ! 👋
 
 ### 👨‍💻 Sobre Mim
 - 🎓 Estudante de **Tecnologias da Informação**.
@@ -18,11 +18,6 @@
 </div>
 
 ---
-
-### 📊 Estatísticas do GitHub
-![Estatísticas do Thiago](https://github-readme-stats.vercel.app/api?username=tiuwillfps&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tiuwillfps&layout=compact&theme=dracula)
-
 
 ---
 *"Focado em transformar lógica em performance, seja no código ou no jogo."*
