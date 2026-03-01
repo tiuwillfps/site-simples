@@ -1,0 +1,15 @@
+# Ignorar configurações do VS Code que podem conter caminhos do seu PC
+.vscode/
+
+# Ignorar arquivos temporários do Windows
+Thumbs.db
+desktop.ini
+
+# Ignorar pastas de dependências (caso você use Node.js no futuro)
+node_modules/
+
+# Ignorar arquivos de variáveis de ambiente (onde ficam senhas e chaves de API)
+.env
+# Ignorar arquivos de log
+*.log
+# Ignorar arquivos de build (caso você use alguma ferramenta de build no futuro)
